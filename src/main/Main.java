@@ -6,6 +6,7 @@ public class Main {
 
 		System.out.println("로컬저장소 사용");
 		System.out.println("원격저장소 사용 가능");
+		System.out.println("원격저장소 사용 가능2");
 		
 		
 		
