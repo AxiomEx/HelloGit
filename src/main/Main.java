@@ -29,6 +29,11 @@ public class Main {
 		SubCalc sub = new SubCalc();
 		int subResult = sub.subtract(1, 2);
 		System.out.println(subResult);
+		
+		System.out.println("집에서 작업시작");
+		System.out.println("집에서 작업끝");
+		
+		
 	}
 
 }
