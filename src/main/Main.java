@@ -11,8 +11,14 @@ public class Main {
 
 		System.out.println("팀장 코드 마지막입니다.");
 		
+
 		System.out.println("팀장 새코드 시작");
 		System.out.println("팀장 새코드 끝");
+
+		System.out.println("팀원 코드1");
+		System.out.println("팀원 코드2");
+		System.out.println("팀원 코드3");
+
 		
 	}
 
