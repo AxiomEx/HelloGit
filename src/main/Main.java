@@ -29,6 +29,10 @@ public class Main {
 		SubCalc sub = new SubCalc();
 		int subResult = sub.subtract(1, 2);
 		System.out.println(subResult);
+		
+		SubCalc sub1 = new SubCalc();
+		int subResult1 = sub1.subtract(1, 2);
+		System.out.println(subResult1);
 	}
 
 }
